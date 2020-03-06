@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuildingParts.Basement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAABAQAAAQEAAEAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Basement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Door" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAABAQAAAQEAAEAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Door.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.House_Build" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAgAAAAAABAQEAAQEAAEAAAgAQAIAAAQCIAA=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Roof" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAABAQAAAQEAAEAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Roof.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Team" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildingParts.TeamLeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="BuildingParts.TeamLeader.Report" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TeamLeader.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAABAAAAAAAAAQQCAAAEAAAACAAAAQ=</HashCode>
+      <FileName>TeamLeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Walls" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAABAQAAAQEAAEAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Walls.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Window" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAAAAAABAQAAAQEAAEAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Window.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingParts.Worker" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="BuildingParts.Ipart" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAQAAAQAAAEAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Ipart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BuildingParts.Iworker" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Iworker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

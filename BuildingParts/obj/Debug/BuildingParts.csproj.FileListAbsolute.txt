@@ -1,0 +1,5 @@
+F:\Мои документы\c+++\ШАГ\C#\House\BuildingParts\bin\Debug\BuildingParts.dll
+F:\Мои документы\c+++\ШАГ\C#\House\BuildingParts\bin\Debug\BuildingParts.pdb
+F:\Мои документы\c+++\ШАГ\C#\House\BuildingParts\obj\Debug\BuildingParts.csprojAssemblyReference.cache
+F:\Мои документы\c+++\ШАГ\C#\House\BuildingParts\obj\Debug\BuildingParts.dll
+F:\Мои документы\c+++\ШАГ\C#\House\BuildingParts\obj\Debug\BuildingParts.pdb
